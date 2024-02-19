@@ -10,10 +10,14 @@
   "repository": "https://github.com/sotakan/tsureshi.us/tsureshi.us",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "push-dir --dir=docs/.vuepress/dist --branch=pages --cleanup"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "push-dir": "^0.4.1"
   }
 }
