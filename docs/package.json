@@ -1,0 +1,19 @@
+{
+  "name": "tsureshi.us",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "tsureshi",
+    "email": "me@sotakan.com"
+  },
+  "repository": "https://github.com/sotakan/tsureshi.us/tsureshi.us",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
