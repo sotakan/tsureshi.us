@@ -1,5 +1,7 @@
-# つれしの奇行ログ
-## 捕まった時に精神疾患の証拠になるよ
+---
+home: true
+footer: This work is licensed under CC BY-NC-SA 4.0 
+---
 
 まだ作り途中
 

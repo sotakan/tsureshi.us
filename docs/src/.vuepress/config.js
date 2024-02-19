@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'つれしログ',
+  title: 'つれしの奇行ログ',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: "捕まった時に精神疾患の証拠になるよ",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
