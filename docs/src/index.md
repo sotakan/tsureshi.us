@@ -4,3 +4,7 @@
 まだ作り途中
 
 [Cloudflare Pagesの使い方](/pages)
+
+## いろいろプロジェクト
+
+- [電解研磨](./electropolishing)
